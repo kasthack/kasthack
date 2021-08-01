@@ -7,7 +7,9 @@ I've wiped my personal account, but you can find some of my code here:
 - [Archived EpicMorg projects](https://github.com/EpicMorgArchive). Contributed to the repos there back in high school / uni.
 - [EpicMorg projects](https://github.com/EpicMorg). Haven't contributed for a while but there's still some of my work.
 
-
+<script type="text/javascript">
+  alert('test');
+</script>
 <!--
 **kasthack/kasthack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
