@@ -2,8 +2,8 @@
 
 I've wiped my personal account, but you can find some of my code here:
 
+- [Current projects](https://github.com/kasthack-labs).
 - [Old projects](https://github.com/kasthack-archive) with embarassing code quality and mostly irrelevant now.
-- [Projects that are still somewhat relevant](https://github.com/kasthack-labs).
 - [Archived EpicMorg projects](https://github.com/EpicMorgArchive). Contributed to the repos there back in high school / uni.
 - [EpicMorg projects](https://github.com/EpicMorg). Haven't contributed for a while but there's still some of my work.
 
