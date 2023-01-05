@@ -2,9 +2,8 @@
 
 I've wiped my personal account, but you can find some of my code here:
 
-- [Current projects](https://github.com/kasthack-labs).
+- [Personal projects](https://github.com/kasthack-labs).
 - [EpicMorg projects](https://github.com/EpicMorg). Some repos like [atlassian-downloader](https://github.com/EpicMorg/atlassian-downloader).
-- [Old projects](https://github.com/kasthack-archive) with embarassing code quality and mostly irrelevant now. Mostly, API clients and small tools.
 - [Archived EpicMorg projects](https://github.com/EpicMorgArchive). Contributed to the repos there back in high school / uni.
 
 
